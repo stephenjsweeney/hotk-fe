@@ -24,7 +24,7 @@ The text of this novel is licensed under a Creative Commons Attribution-NonComme
 
 (C) 2009, Stephen J Sweeney | www.battleforthesolarsystem.com
 
-<img src="gfx/by-nc-sa.png?raw=true" alt="CC BY-NC-SA logo" width="125">
+<img src="by-nc-sa.png?raw=true" alt="CC BY-NC-SA logo" width="125">
 
 
 ## Credits
