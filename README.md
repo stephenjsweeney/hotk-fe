@@ -6,12 +6,12 @@ This repository contains the text of the space opera novel THE HONOUR OF THE KNI
 
 The text is licensed under a Share-A-Like license, allowing you to make derivative works (including translations) for non-commercial usage only.
 
-The book is available in:
+The book is available in the following languages:
 
 * [English](en)
 * [Spanish](es)
 
-The following formats are available:
+and the following formats:
 
 * ePub
 * Mobi (Amazon Kindle)
@@ -29,4 +29,4 @@ The text of this novel is licensed under a Creative Commons Attribution-NonComme
 
 ## Credits
 
-Spanish translation by Artifacs: artifacs.webcindario.com
+Spanish translation by Artifacs: [artifacs.webcindario.com](http://artifacs.webcindario.com)
